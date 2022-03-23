@@ -1,1395 +1,1594 @@
-[
-  {
+{
+  "A000001": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.360104,
     "Lat": -71.0905928,
     "Date_registered": "02/02/2018",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000002": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.343839,
     "Lat": -71.0943776,
     "Date_registered": "26/07/2018",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000003": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.350345,
     "Lat": -71.0830232,
     "Date_registered": "10/07/2016",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000004": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.353598,
     "Lat": -71.0981624,
     "Date_registered": "30/06/2018",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000005": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.353598,
     "Lat": -71.0943776,
     "Date_registered": "16/04/2016",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000006": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.360104,
     "Lat": -71.0981624,
     "Date_registered": "11/01/2016",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000007": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.340586,
     "Lat": -71.0905928,
     "Date_registered": "14/08/2018",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000008": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.343839,
     "Lat": -71.0905928,
     "Date_registered": "16/03/2017",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000009": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.347092,
     "Lat": -71.0792384,
     "Date_registered": "10/12/2020",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000010": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.356851,
     "Lat": -71.0792384,
     "Date_registered": "03/02/2021",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000011": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.369863,
     "Lat": -71.067884,
     "Date_registered": "19/11/2021",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000012": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.363357,
     "Lat": -71.0792384,
     "Date_registered": "29/12/2017",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000013": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.343839,
     "Lat": -71.0905928,
     "Date_registered": "09/07/2019",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000014": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.347092,
     "Lat": -71.0830232,
     "Date_registered": "23/07/2016",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000015": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.360104,
     "Lat": -71.0716688,
     "Date_registered": "28/11/2019",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000016": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.347092,
     "Lat": -71.0792384,
     "Date_registered": "19/01/2019",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000017": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.343839,
     "Lat": -71.0981624,
     "Date_registered": "25/03/2016",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000018": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.353598,
     "Lat": -71.0716688,
     "Date_registered": "23/01/2018",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000019": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.369863,
     "Lat": -71.0981624,
     "Date_registered": "07/08/2017",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000020": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.369863,
     "Lat": -71.0792384,
     "Date_registered": "25/10/2016",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000021": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.369863,
     "Lat": -71.0716688,
     "Date_registered": "16/11/2020",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000022": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.369863,
     "Lat": -71.0754536,
     "Date_registered": "29/11/2020",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000023": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.356851,
     "Lat": -71.0905928,
     "Date_registered": "26/12/2021",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000024": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.36661,
     "Lat": -71.0754536,
     "Date_registered": "06/11/2018",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000025": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.360104,
     "Lat": -71.0981624,
     "Date_registered": "10/03/2022",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000026": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.340586,
     "Lat": -71.0792384,
     "Date_registered": "08/06/2016",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000027": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.343839,
     "Lat": -71.0792384,
     "Date_registered": "10/04/2016",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000028": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.363357,
     "Lat": -71.0792384,
     "Date_registered": "13/07/2021",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000029": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.353598,
     "Lat": -71.0754536,
     "Date_registered": "09/11/2017",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000030": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.356851,
     "Lat": -71.0905928,
     "Date_registered": "07/07/2021",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000031": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.363357,
     "Lat": -71.086808,
     "Date_registered": "29/07/2020",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000032": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.347092,
     "Lat": -71.0792384,
     "Date_registered": "09/06/2017",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000033": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.356851,
     "Lat": -71.0905928,
     "Date_registered": "29/01/2017",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000034": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.340586,
     "Lat": -71.0716688,
     "Date_registered": "19/03/2018",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000035": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.363357,
     "Lat": -71.0716688,
     "Date_registered": "02/02/2017",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000036": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.356851,
     "Lat": -71.0792384,
     "Date_registered": "09/10/2018",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000037": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.350345,
     "Lat": -71.0981624,
     "Date_registered": "12/04/2016",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000038": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.36661,
     "Lat": -71.1019472,
     "Date_registered": "05/02/2021",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000039": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.36661,
     "Lat": -71.0943776,
     "Date_registered": "13/10/2020",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000040": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.350345,
     "Lat": -71.0792384,
     "Date_registered": "30/05/2016",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000041": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.347092,
     "Lat": -71.0830232,
     "Date_registered": "16/10/2016",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000042": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.340586,
     "Lat": -71.0754536,
     "Date_registered": "11/12/2021",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000043": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.350345,
     "Lat": -71.067884,
     "Date_registered": "20/08/2021",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000044": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.343839,
     "Lat": -71.0716688,
     "Date_registered": "09/07/2017",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000045": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.347092,
     "Lat": -71.0981624,
     "Date_registered": "26/03/2020",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000046": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.347092,
     "Lat": -71.0716688,
     "Date_registered": "26/04/2017",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000047": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.356851,
     "Lat": -71.0905928,
     "Date_registered": "04/01/2017",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000048": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.347092,
     "Lat": -71.1019472,
     "Date_registered": "23/12/2016",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000049": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.353598,
     "Lat": -71.0754536,
     "Date_registered": "31/08/2021",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000050": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.36661,
     "Lat": -71.0754536,
     "Date_registered": "26/03/2022",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000051": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.353598,
     "Lat": -71.0943776,
     "Date_registered": "02/09/2019",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000052": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.356851,
     "Lat": -71.0905928,
     "Date_registered": "25/01/2017",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000053": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.350345,
     "Lat": -71.0792384,
     "Date_registered": "09/05/2019",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000054": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.363357,
     "Lat": -71.0716688,
     "Date_registered": "14/01/2022",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000055": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.343839,
     "Lat": -71.067884,
     "Date_registered": "09/11/2018",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000056": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.369863,
     "Lat": -71.0754536,
     "Date_registered": "04/09/2021",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000057": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.353598,
     "Lat": -71.1019472,
     "Date_registered": "20/01/2020",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000058": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.36661,
     "Lat": -71.1019472,
     "Date_registered": "16/08/2019",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000059": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.356851,
     "Lat": -71.0981624,
     "Date_registered": "17/07/2017",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000060": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.369863,
     "Lat": -71.067884,
     "Date_registered": "29/09/2016",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000061": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.343839,
     "Lat": -71.0716688,
     "Date_registered": "08/07/2019",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000062": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.369863,
     "Lat": -71.0943776,
     "Date_registered": "26/07/2016",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000063": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.340586,
     "Lat": -71.0754536,
     "Date_registered": "04/09/2016",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000064": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.356851,
     "Lat": -71.0716688,
     "Date_registered": "20/02/2020",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000065": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.347092,
     "Lat": -71.0943776,
     "Date_registered": "18/08/2020",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000066": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.36661,
     "Lat": -71.0981624,
     "Date_registered": "20/01/2019",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000067": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.350345,
     "Lat": -71.0792384,
     "Date_registered": "01/06/2017",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000068": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.347092,
     "Lat": -71.067884,
     "Date_registered": "02/03/2017",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000069": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.356851,
     "Lat": -71.1019472,
     "Date_registered": "02/10/2019",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000070": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.343839,
     "Lat": -71.0905928,
     "Date_registered": "20/07/2019",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000071": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.363357,
     "Lat": -71.1019472,
     "Date_registered": "28/09/2021",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000072": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.356851,
     "Lat": -71.0754536,
     "Date_registered": "05/12/2020",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000073": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.347092,
     "Lat": -71.0830232,
     "Date_registered": "03/05/2018",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000074": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.350345,
     "Lat": -71.0754536,
     "Date_registered": "10/05/2019",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000075": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.369863,
     "Lat": -71.0981624,
     "Date_registered": "06/01/2020",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000076": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.340586,
     "Lat": -71.0716688,
     "Date_registered": "01/10/2019",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000077": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.340586,
     "Lat": -71.086808,
     "Date_registered": "28/06/2020",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000078": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.350345,
     "Lat": -71.0716688,
     "Date_registered": "13/02/2022",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000079": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.363357,
     "Lat": -71.0716688,
     "Date_registered": "14/08/2021",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000080": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.356851,
     "Lat": -71.0943776,
     "Date_registered": "14/06/2018",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000081": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.353598,
     "Lat": -71.067884,
     "Date_registered": "12/02/2018",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000082": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.363357,
     "Lat": -71.067884,
     "Date_registered": "06/01/2018",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000083": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.363357,
     "Lat": -71.0830232,
     "Date_registered": "15/07/2020",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000084": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.369863,
     "Lat": -71.0792384,
     "Date_registered": "23/07/2019",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000085": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.347092,
     "Lat": -71.0981624,
     "Date_registered": "28/04/2020",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000086": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.356851,
     "Lat": -71.0981624,
     "Date_registered": "28/09/2017",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000087": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.36661,
     "Lat": -71.1019472,
     "Date_registered": "20/06/2021",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000088": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.340586,
     "Lat": -71.0792384,
     "Date_registered": "26/07/2018",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000089": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.347092,
     "Lat": -71.0943776,
     "Date_registered": "31/03/2022",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000090": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.353598,
     "Lat": -71.0792384,
     "Date_registered": "16/08/2017",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000091": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.343839,
     "Lat": -71.0905928,
     "Date_registered": "23/04/2018",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000092": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.356851,
     "Lat": -71.067884,
     "Date_registered": "13/12/2021",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000093": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.360104,
     "Lat": -71.067884,
     "Date_registered": "24/06/2020",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000094": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.356851,
     "Lat": -71.086808,
     "Date_registered": "13/10/2016",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000095": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.363357,
     "Lat": -71.0830232,
     "Date_registered": "13/12/2018",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000096": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.36661,
     "Lat": -71.067884,
     "Date_registered": "07/11/2021",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000097": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.363357,
     "Lat": -71.067884,
     "Date_registered": "19/08/2021",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000098": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.36661,
     "Lat": -71.0792384,
     "Date_registered": "02/02/2019",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000099": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.340586,
     "Lat": -71.0905928,
     "Date_registered": "16/11/2021",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000100": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.343839,
     "Lat": -71.0792384,
     "Date_registered": "15/07/2021",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000101": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.360104,
     "Lat": -71.0830232,
     "Date_registered": "18/11/2021",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000102": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.350345,
     "Lat": -71.0943776,
     "Date_registered": "21/10/2019",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000103": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.350345,
     "Lat": -71.0943776,
     "Date_registered": "11/07/2016",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000104": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.340586,
     "Lat": -71.0830232,
     "Date_registered": "27/04/2016",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000105": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.360104,
     "Lat": -71.067884,
     "Date_registered": "25/09/2018",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000106": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.353598,
     "Lat": -71.0754536,
     "Date_registered": "29/06/2016",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000107": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.369863,
     "Lat": -71.0792384,
     "Date_registered": "17/09/2021",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000108": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.350345,
     "Lat": -71.0981624,
     "Date_registered": "10/05/2021",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000109": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.347092,
     "Lat": -71.0981624,
     "Date_registered": "02/06/2021",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000110": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.360104,
     "Lat": -71.0716688,
     "Date_registered": "15/09/2021",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000111": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.369863,
     "Lat": -71.0716688,
     "Date_registered": "14/06/2019",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000112": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.356851,
     "Lat": -71.0754536,
     "Date_registered": "15/06/2017",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000113": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.356851,
     "Lat": -71.0943776,
     "Date_registered": "24/01/2022",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000114": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.360104,
     "Lat": -71.067884,
     "Date_registered": "13/05/2016",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000115": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.353598,
     "Lat": -71.0943776,
     "Date_registered": "11/01/2021",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000116": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.343839,
     "Lat": -71.086808,
     "Date_registered": "27/04/2018",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000117": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.347092,
     "Lat": -71.067884,
     "Date_registered": "28/02/2021",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000118": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.36661,
     "Lat": -71.1019472,
     "Date_registered": "28/02/2018",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000119": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.350345,
     "Lat": -71.1019472,
     "Date_registered": "09/06/2018",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000120": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.343839,
     "Lat": -71.1019472,
     "Date_registered": "03/07/2018",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000121": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.347092,
     "Lat": -71.1019472,
     "Date_registered": "27/11/2017",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000122": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.363357,
     "Lat": -71.0754536,
     "Date_registered": "26/05/2018",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000123": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.356851,
     "Lat": -71.0754536,
     "Date_registered": "13/09/2017",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000124": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.350345,
     "Lat": -71.0792384,
     "Date_registered": "30/01/2019",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000125": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.36661,
     "Lat": -71.086808,
     "Date_registered": "25/06/2021",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000126": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.369863,
     "Lat": -71.0792384,
     "Date_registered": "21/06/2017",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000127": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.353598,
     "Lat": -71.0830232,
     "Date_registered": "23/12/2021",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000128": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.353598,
     "Lat": -71.0792384,
     "Date_registered": "25/01/2021",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000129": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.369863,
     "Lat": -71.0981624,
     "Date_registered": "29/05/2016",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000130": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.369863,
     "Lat": -71.0943776,
     "Date_registered": "25/06/2020",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000131": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.347092,
     "Lat": -71.067884,
     "Date_registered": "02/06/2020",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000132": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.340586,
     "Lat": -71.0905928,
     "Date_registered": "15/12/2016",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000133": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.340586,
     "Lat": -71.067884,
     "Date_registered": "09/09/2016",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000134": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.350345,
     "Lat": -71.0905928,
     "Date_registered": "21/08/2018",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000135": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.356851,
     "Lat": -71.1019472,
     "Date_registered": "15/03/2017",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000136": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.343839,
     "Lat": -71.0943776,
     "Date_registered": "31/05/2018",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000137": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.363357,
     "Lat": -71.1019472,
     "Date_registered": "19/08/2017",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000138": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.363357,
     "Lat": -71.0905928,
     "Date_registered": "11/01/2018",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000139": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.353598,
     "Lat": -71.0905928,
     "Date_registered": "01/12/2016",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000140": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.340586,
     "Lat": -71.0792384,
     "Date_registered": "10/01/2019",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000141": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.343839,
     "Lat": -71.0905928,
     "Date_registered": "13/10/2020",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000142": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.369863,
     "Lat": -71.0981624,
     "Date_registered": "24/09/2017",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000143": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.347092,
     "Lat": -71.0981624,
     "Date_registered": "22/09/2016",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000144": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.353598,
     "Lat": -71.067884,
     "Date_registered": "08/04/2017",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000145": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.360104,
     "Lat": -71.0830232,
     "Date_registered": "29/05/2016",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000146": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.350345,
     "Lat": -71.0792384,
     "Date_registered": "07/07/2018",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000147": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.350345,
     "Lat": -71.0716688,
     "Date_registered": "03/01/2021",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000148": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.350345,
     "Lat": -71.0905928,
     "Date_registered": "15/09/2017",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000149": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.356851,
     "Lat": -71.0716688,
     "Date_registered": "06/10/2016",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000150": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.343839,
     "Lat": -71.0830232,
     "Date_registered": "25/12/2020",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000151": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.363357,
     "Lat": -71.0792384,
     "Date_registered": "03/07/2017",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000152": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.353598,
     "Lat": -71.1019472,
     "Date_registered": "15/10/2020",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000153": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.340586,
     "Lat": -71.0754536,
     "Date_registered": "01/04/2017",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000154": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.363357,
     "Lat": -71.0754536,
     "Date_registered": "05/01/2017",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000155": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.36661,
     "Lat": -71.1019472,
     "Date_registered": "28/12/2021",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000156": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.36661,
     "Lat": -71.0716688,
     "Date_registered": "15/07/2021",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000157": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.369863,
     "Lat": -71.0792384,
     "Date_registered": "13/11/2021",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000158": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.340586,
     "Lat": -71.0905928,
     "Date_registered": "26/10/2019",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000159": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.356851,
     "Lat": -71.1019472,
     "Date_registered": "23/04/2016",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000160": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.363357,
     "Lat": -71.0830232,
     "Date_registered": "25/10/2018",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000161": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.350345,
     "Lat": -71.067884,
     "Date_registered": "13/02/2017",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000162": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.353598,
     "Lat": -71.0943776,
     "Date_registered": "12/08/2016",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000163": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.363357,
     "Lat": -71.1019472,
     "Date_registered": "20/09/2018",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000164": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.369863,
     "Lat": -71.0943776,
     "Date_registered": "07/12/2021",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000165": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.369863,
     "Lat": -71.0716688,
     "Date_registered": "29/03/2019",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000166": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.369863,
     "Lat": -71.086808,
     "Date_registered": "07/02/2021",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000167": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.360104,
     "Lat": -71.0830232,
     "Date_registered": "06/08/2021",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000168": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.340586,
     "Lat": -71.0716688,
     "Date_registered": "15/06/2020",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000169": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.36661,
     "Lat": -71.1019472,
     "Date_registered": "26/10/2018",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000170": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.350345,
     "Lat": -71.067884,
     "Date_registered": "24/04/2018",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000171": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.347092,
     "Lat": -71.0943776,
     "Date_registered": "22/05/2020",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000172": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.347092,
     "Lat": -71.0830232,
     "Date_registered": "26/03/2016",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000173": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.347092,
     "Lat": -71.0830232,
     "Date_registered": "03/02/2020",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000174": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.340586,
     "Lat": -71.0943776,
     "Date_registered": "20/10/2017",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000175": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.356851,
     "Lat": -71.0792384,
     "Date_registered": "19/04/2020",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000176": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.363357,
     "Lat": -71.0943776,
     "Date_registered": "26/06/2017",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000177": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.360104,
     "Lat": -71.0830232,
     "Date_registered": "08/06/2017",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000178": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.353598,
     "Lat": -71.086808,
     "Date_registered": "18/05/2016",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000179": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.363357,
     "Lat": -71.0792384,
     "Date_registered": "28/05/2017",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000180": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.36661,
     "Lat": -71.086808,
     "Date_registered": "07/01/2021",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000181": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.363357,
     "Lat": -71.0905928,
     "Date_registered": "07/03/2021",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000182": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.363357,
     "Lat": -71.1019472,
     "Date_registered": "29/11/2020",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000183": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.356851,
     "Lat": -71.0905928,
     "Date_registered": "18/12/2020",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000184": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.369863,
     "Lat": -71.1019472,
     "Date_registered": "08/09/2021",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000185": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.369863,
     "Lat": -71.0905928,
     "Date_registered": "13/11/2016",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000186": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.353598,
     "Lat": -71.0716688,
     "Date_registered": "18/07/2018",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000187": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.36661,
     "Lat": -71.0830232,
     "Date_registered": "29/03/2017",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000188": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.343839,
     "Lat": -71.0754536,
     "Date_registered": "09/03/2018",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   },
-  {
+  "A000189": {
+    "City": "Boston",
     "Type_ID": "D2",
     "Lon": 42.343839,
     "Lat": -71.1019472,
     "Date_registered": "18/01/2018",
     "Description": "�dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum do"
   },
-  {
+  "A000190": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.363357,
     "Lat": -71.1019472,
     "Date_registered": "01/10/2017",
     "Description": "tecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad mi"
   },
-  {
+  "A000191": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.363357,
     "Lat": -71.0905928,
     "Date_registered": "18/05/2021",
     "Description": "quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id q"
   },
-  {
+  "A000192": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.340586,
     "Lat": -71.1019472,
     "Date_registered": "06/03/2021",
     "Description": "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit i"
   },
-  {
+  "A000193": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.36661,
     "Lat": -71.086808,
     "Date_registered": "20/02/2021",
     "Description": "Aliquet enim tortor at auctor urna nunc id. Id volutpat lacus laoreet non curabitur. Consequat interdum varius sit amet mattis. Erat imperdiet sed euismod nisi. Elit ut aliquam purus sit ame"
   },
-  {
+  "A000194": {
+    "City": "Boston",
     "Type_ID": "C1",
     "Lon": 42.363357,
     "Lat": -71.0754536,
     "Date_registered": "14/08/2021",
     "Description": "Metus aliquam eleifend mi in nulla posuere sollicitudin."
   },
-  {
+  "A000195": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.347092,
     "Lat": -71.0905928,
     "Date_registered": "09/11/2021",
     "Description": "Eget magna fermentum iaculis eu non. Egestas pretium aenean pharetra magna"
   },
-  {
+  "A000196": {
+    "City": "Boston",
     "Type_ID": "L1",
     "Lon": 42.360104,
     "Lat": -71.0716688,
     "Date_registered": "20/02/2018",
     "Description": "Nibh tortor id aliquet lectus proin nibh nisl condimentum id.�"
   },
-  {
+  "A000197": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.36661,
     "Lat": -71.0792384,
     "Date_registered": "19/07/2017",
     "Description": "Volutpat blandit aliquam etiam erat velit scelerisque in dictum."
   },
-  {
+  "A000198": {
+    "City": "Boston",
     "Type_ID": "D1",
     "Lon": 42.360104,
     "Lat": -71.0981624,
     "Date_registered": "20/07/2019",
     "Description": "Odio facilisis mauris sit amet massa. Id volutpat lacus laoreet non curabitur.�"
   },
-  {
+  "A000199": {
+    "City": "Boston",
     "Type_ID": "L2",
     "Lon": 42.363357,
     "Lat": -71.067884,
     "Date_registered": "05/10/2021",
     "Description": "Sagittis purus sit amet volutpat consequat mauris nunc congue."
   }
-]
+}
